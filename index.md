@@ -8,3 +8,6 @@
 <p>look at the seal isnt he a cutie?</p>
 
 ```
+- [x] configure my profile
+- [x] introduce myself through a README.md file
+- [ ] learn about communication using Markdown
